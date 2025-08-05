@@ -34,9 +34,9 @@ Esto permite enfocarse en el funcionamiento central del flujo sin sobrecargar la
 
 ## 📸 Capturas de pantalla
 
-Ver carpeta `flow-screenshots/`
+Ver captures
 
 ## 👨‍💻 Autor
 
 Marcelo Gaete  
-Salesforce Consultant | Flow & Automation | Apex & LWC Student
+Salesforce Consultant | Flow & Automation | Apex & LWC
